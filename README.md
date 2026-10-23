@@ -35,4 +35,33 @@ The ESP32 collects data from the BME280 and BH1750 sensors using I2C communicati
 - Improve wireless monitoring capabilities
 
 ## Project Images
-Photos of the hardware, enclosure, and dashboard will be added here.
+
+### Hardware and 3D-Printed Enclosure
+
+![Hardware Photo 1](images/IMG_7981.JPG)
+
+![Hardware Photo 2](images/IMG_7986.JPG)
+
+![Hardware Photo 3](images/IMG_7987.JPG)
+
+![Hardware Photo 4](images/IMG_7989.JPG)
+
+![Hardware Photo 5](images/IMG_7991.JPG)
+
+![Hardware Photo 6](images/IMG_7992.JPG)
+
+![Hardware Photo 7](images/IMG_7993.JPG)
+
+![Hardware Photo 8](images/IMG_7995.JPG)
+
+![Hardware Photo 9](images/IMG_7996.JPG)
+
+![Hardware Photo 10](images/IMG_7997.JPG)
+
+### Web Dashboard and Software
+
+![Dashboard Screenshot 1](images/image.png)
+
+![Dashboard Screenshot 2](images/image(1).png)
+
+![Dashboard Screenshot 3](images/image(2).png)
